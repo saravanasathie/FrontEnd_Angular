@@ -1,0 +1,13 @@
+.changeFont{
+    font-style: italic;
+    color: black;
+}
+button {
+    padding: 10px 20px;
+    background-color: #FFFFFF;
+    color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+}
